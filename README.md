@@ -105,6 +105,7 @@ The project demonstrates practical application of control systems theory, embedd
 **Power Supply**
 - 5V for Arduino and logic circuits
 - 12V for DC motor (separate supply recommended)
+- 3.3V for nRF24L01 via AMS1117-based linear regulator module
 
 ---
 
