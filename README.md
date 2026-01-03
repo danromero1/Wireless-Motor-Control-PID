@@ -33,7 +33,7 @@ The project demonstrates practical application of control systems theory, embedd
 - Arduino Uno with multiple sensors and actuators
 - DC motor with L293D H-bridge driver
 - PID speed controller with anti-windup
-- Multi-sensor integration (DHT11, LDR, encoder)
+- Multi-sensor integration (DHT11, LDR, LM393 speed sensor module)
 - Real-time feedback display
 
 ### Data Acquisition
